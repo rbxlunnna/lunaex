@@ -10,9 +10,6 @@ Whether you're a seasoned developer stress-testing Lua logic or a curious player
 
 This guide covers everything — from raw performance specs and step-by-step installation to changelogs, real user reviews, and advanced configuration. If you've ever wondered *is Luna a safe executor*, how it handles anti-cheat systems, or what to do when issues arise, you'll find every answer here. Let's dive in. 🔥
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7072ee06-2202-461e-be6a-c98cfb7851f3" />
-
-
 ---
 
 ## ⚙️ Under the Hood — Core Technical Architecture
